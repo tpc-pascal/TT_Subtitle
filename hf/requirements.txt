@@ -1,0 +1,26 @@
+# ===== Core =====
+gradio>=4.0
+torch>=2.0.0
+
+# ===== YouTube =====
+yt-dlp>=2024.0.0
+
+# ===== ASR (Speech-to-Text) =====
+openai-whisper>=20231117
+
+# ===== Translation =====
+transformers>=4.36.0
+sentencepiece>=0.1.99
+protobuf>=3.20.0
+
+# ===== TTS (Lồng tiếng) =====
+edge-tts>=6.1.0
+
+# ===== Video/Audio Processing =====
+srt>=3.5.0
+moviepy>=1.0.3
+pydub>=0.25.1
+
+# ===== Utils =====
+requests>=2.31.0
+httpx>=0.25.0
